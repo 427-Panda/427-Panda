@@ -1,0 +1,9 @@
+- 👋 Holanda, Soy Panda_427
+- 👀 Me interesa la edicion de video y demas ...
+- 🌱 Actualmente estoy aprendiendo programacion ...
+- 💞️ Me gusta el kpop, la dupster y la musica dreamcore ...
+
+<!---
+427-Panda/427-Panda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
